@@ -7,8 +7,7 @@ Observe the FastAPI application with three pillars of observability on [Grafana]
 2. Metrics with [Prometheus](https://prometheus.io/) and [Prometheus Python Client](https://github.com/prometheus/client_python)
 3. Logs with [Loki](https://github.com/grafana/loki)
 
-using only [OpenTelemetry Python SDK](https://github.com/open-telemetry/opentelemetry-python). This is based
-on the awesome demo: https://github.com/blueswen/fastapi-observability
+
 
 The FastAPI application can be configured to use one of the 3 approaches
 of observability with Opentelemetry using the environment variable
