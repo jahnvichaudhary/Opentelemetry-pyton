@@ -365,3 +365,9 @@ grafana:
       - ./etc/dashboards.yaml:/etc/grafana/provisioning/dashboards/dashboards.yaml # dashboard setting
       - ./etc/dashboards:/etc/grafana/dashboards # dashboard json files directory
 ```
+## 👨‍💻 Author
+Jahnvi Chaudhary
+ 
+
+## 📬 **Contact**: 
+[LinkedIn](www.linkedin.com/in/jahnvi-chaudhary-756152212) | [Email](chaudharyjahnvi@gmail.com)
